@@ -6,6 +6,6 @@ Para compilar el programa:
 
     $ gcc Shell_project.c job_control.c -o Shell
    
-     $ ./Shell  
+    $ ./Shell  
    
-    (^D para salir del programa) 
+ (^D para salir del programa) 
