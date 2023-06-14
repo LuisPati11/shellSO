@@ -1,6 +1,6 @@
 # shellSO
 
-Programa de un shell basico en Unix realizado par amis prácticas de Sistemas Operativos en la Universidad de Málaga.
+Programa de un Shell básico en Unix realizado para mis prácticas de Sistemas Operativos en la Universidad de Málaga. Desarrolado en el lenguaje de programación C.
 
 Para compilar el programa:
 
