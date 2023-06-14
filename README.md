@@ -4,9 +4,8 @@ Programa de un shell basico en Unix realizado par amis prácticas de Sistemas Op
 
 Para compilar el programa:
 
-   $ gcc Shell_project.c job_control.c -o Shell
+    $ gcc Shell_project.c job_control.c -o Shell
    
-   $ ./Shell  
+     $ ./Shell  
    
     (^D para salir del programa) 
- */
